@@ -9,7 +9,7 @@ const Article = ({ article }) => {
       year: "numeric",
       month: "long",
       day: "numeric",
-      hour: "numeric",
+      hour: "numeric",gitgit
       minute: "numeric",
       second: "numeric",
     });
